@@ -12,6 +12,11 @@ The criteria to follow and meet required that:
 ## Result
 Once the password creation process is completed, a generated password matching the specified criteria is created and displayed to the user.
 
+## Screenshot
+
+![](https://github.com/AndrewDotTee/3rd-module-JavaScript-Password-Generator/blob/main/Password%20generator%20screenshot.jpg)
+
+
 ## Installation Output
 The project was uploaded to [GitHub](https://github.com/) at the following repository:
 [https://github.com/AndrewDotTee/3rd-module-JavaScript-Password-Generator](https://github.com/AndrewDotTee/3rd-module-JavaScript-Password-Generator)
